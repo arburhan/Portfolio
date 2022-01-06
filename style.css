@@ -1,0 +1,122 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    margin-bottom: 0%;
+}
+section{
+    margin-bottom: 10%;
+    /* margin-left: 5%; */
+}
+.flex{
+    display: flex;
+}
+.header{
+    margin-left: 10%;
+}
+.missiontitle{
+    border-left: 5px solid salmon;
+    font-family: 'Roboto Slab', serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+    line-height: 55px;
+}
+.missiontitle h1{
+    margin-left: 1%;
+}
+.hlight{
+    color: orange;
+}
+.button{
+    text-decoration: none;
+    font-size: 18px;
+    background-color: tomato;
+    padding: 13px 17px;
+    color: white;
+    border-radius: 8px;
+}
+.pmstone{
+    width: 101%;
+    margin-top: 5%;
+}
+.tophoto img{
+    width: 60%;
+    margin-left: 25%;
+}
+
+/* Mission Section */
+
+.mission22{
+    height: 620px;
+}
+.titlname{
+    font-size: 55px;
+    text-align: center;
+}
+.mpart{
+    height: 420px;
+    width: 25%;
+    background-color: rgba(255, 248, 220, 0.747);
+    margin-left: 3%;
+    border-radius: 5%;
+    padding: 0% 2%;
+    box-shadow: 5px 5px 20px rgba(128, 128, 128, 0.349);
+    padding-top: 2%;
+}
+.mpart img{
+    width: 55%;
+}
+.vission{
+    background: rgba(99, 194, 218, 0.233);
+}
+.goals{
+    background-color: rgba(238, 185, 236, 0.295);
+}
+
+
+/* Developer Section */
+.titlname2nd{
+    font-size: 45px;
+}
+
+/* Community Section */
+.community{
+    margin-left: 5%;
+}
+.project img{
+    width: 80%;
+}
+
+
+/* client area */
+.clientarea{
+    height: 400px;
+    background-color: rgba(128, 128, 128, 0.192);
+    text-align: center;
+    color: rgba(5, 5, 5, 0.267);
+    padding-top: 3%;
+}
+.clients img{
+    width: 88%;
+    border: 2px solid white;
+    padding: 2% 3%;
+}
+.clients div{
+    margin-left: 1.2%;
+}
+
+
+/* footer */
+footer{
+    font-family: 'Roboto Slab', serif;
+    padding: 2% 0%;
+    height: 100px;
+    text-align: center;
+    color: rgba(255, 253, 253, 0.795);
+    background-color: black;
+}
+.fdevelopername{
+    text-decoration: none;
+    color: rgb(233, 47, 47);
+}
+
+
